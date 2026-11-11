@@ -1,0 +1,12 @@
+{
+	"name": "adf-mediflow-hc",
+	"properties": {
+		"globalParameters": {
+			"email_recipient": {
+				"type": "string",
+				"value": "saibuthada1905@gmail.com"
+			}
+		}
+	},
+	"location": "eastus"
+}
